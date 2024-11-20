@@ -1,3 +1,3 @@
 # New Project
 This project was created from a local system.
-Insiya Tambawala
+Created by Insiya Tambawala.
